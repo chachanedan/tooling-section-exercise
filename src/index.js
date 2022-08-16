@@ -12,5 +12,5 @@ async function loadIfc(url) {
     viewer.shadowDropper.renderShadow(model.modelID);
 }
 
-loadIfc('./M1-Bridge.ifc');
+loadIfc('/M1-Bridge.ifc');
 
