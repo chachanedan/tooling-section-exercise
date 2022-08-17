@@ -121474,4 +121474,4 @@ async function loadIfc(url) {
     viewer.shadowDropper.renderShadow(model.modelID);
 }
 
-loadIfc('tooling-section-exercise/M1-Bridge.ifc');
+loadIfc('M1-Bridge.ifc');
